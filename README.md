@@ -33,6 +33,7 @@
 ## B. Tema Topik Kelompok
 
 **TEMA :Sistem Informasi Berbasis Web untuk Pemberdayaan UMKM Cerdas.**
+Pengembangan Ekosistem Ekonomi Digital melalui Pengelolaan Sampah Elektronik dan Pemberdayaan UMKM
 
 ---
 
