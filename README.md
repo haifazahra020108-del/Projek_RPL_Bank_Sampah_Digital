@@ -182,19 +182,13 @@ Proyek menyediakan modul `ai-quick-response.ts` untuk menangani respons cepat te
 ## E. Tautan Video Dokumentasi
 
 ### Tautan Video Progres 1
-- **Tautan:** `https://youtu.be/srnyMw1igY8`
+`https://youtu.be/8QkLyc3r-ZI`
 
 ### Tautan Video Progres 2
-
-- **Status:** Belum tersedia
-- **Tautan:** `[MASUKKAN LINK VIDEO PROGRES 2]`
+`https://youtu.be/bj5NDtzvids`
 
 ### Tautan Video Final Demo
-
-- **Status:** Belum tersedia
-- **Tautan:** `[MASUKKAN LINK VIDEO FINAL DEMO]`
-
-> **Catatan:** Tautan video di atas dapat diperbarui setelah proses perekaman dan pengunggahan dokumentasi masing-masing progres selesai dilaksanakan.
+`https://youtu.be/tkY6jcPfOb0`
 
 ---
 
